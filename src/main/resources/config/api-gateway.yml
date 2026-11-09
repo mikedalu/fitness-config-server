@@ -1,5 +1,5 @@
 spring:
-  security:
+  security: #keycloak configuration
     oauth2:
       resourceserver:
         jwt:
